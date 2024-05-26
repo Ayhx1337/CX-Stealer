@@ -9,7 +9,7 @@ import warnings
 import threading
 import subprocess
 from sys import executable, stderr
-from base64 import b64decodef
+from base64 import b64decode
 from json import loads, dumps
 from zipfile import ZipFile, ZIP_DEFLATED
 from sqlite3 import connect as sql_connect
